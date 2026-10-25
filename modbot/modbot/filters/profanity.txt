@@ -1,0 +1,9 @@
+# Words the BOT itself must never output (its replies are scanned against this list).
+# Extend as needed.
+fuck
+shit
+bitch
+asshole
+bastard
+dick
+cunt

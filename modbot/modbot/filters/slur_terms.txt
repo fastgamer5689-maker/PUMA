@@ -1,0 +1,2 @@
+# FLAG + DELETE + HUMAN REVIEW list — one term per line, lines starting with # are ignored.
+# Add other slurs / hate-speech terms here. Do NOT add "clanker" (it is handled separately).

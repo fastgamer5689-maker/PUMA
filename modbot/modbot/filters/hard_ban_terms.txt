@@ -1,0 +1,4 @@
+# INSTANT PERMANENT BAN list — one term per line, lines starting with # are ignored.
+# Add the n-word and the explicit variants you want covered (base forms are enough:
+# leetspeak, repeated letters, separators and plurals are normalized automatically).
+# Kept intentionally empty in the repo so no slurs live in source control.
